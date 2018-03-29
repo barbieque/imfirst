@@ -3,7 +3,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.sheridan.imm.collective"
-        version   = "3.0.1">
+        version   = "1.0.0">
 
     <name>Name of my App</name>
 
@@ -11,8 +11,9 @@
         Mobile something to do something
     </description>
 
-    <author href="http://danzen.com" email="support@danzen.com">
-       Barb Peters
+    <author href="" email="">
+	    Barb Peters
+    </author>
 
     <!--
         If you do not want any permissions to be added to your app, add the
